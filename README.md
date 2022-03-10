@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Competitive Programming**
 
-- 👨‍💻 Portfolio [http://sharwansolanki.tech](http://sharwansolanki.tech)
+- 👨‍💻 Portfolio [https://notsharwan.github.io/](https://notsharwan.github.io/)
 
 - 💬 Ask me about **anything and everything!**
 
