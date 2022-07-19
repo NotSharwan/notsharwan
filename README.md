@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharwan Solanki</h1>
-<h3 align="center">20-year-old Programmer / Developer / CS Undergrad currently living in Hyderabad. I've got a burning passion to want to help others with the code I create. I enjoy the limitless potential of impact that I can have on what I'm building. It's what pushes me to become a better developer every day. Other than coding, I love watching anime.</h3>
+<h3 align="center">21-year-old Programmer / Developer / CS Undergrad currently living in Hyderabad. I've got a burning passion to want to help others with the code I create. I enjoy the limitless potential of impact that I can have on what I'm building. It's what pushes me to become a better developer every day. Other than coding, I love watching anime.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notsharwan&label=Profile%20views&color=0e75b6&style=flat" alt="notsharwan" /> </p>
 
